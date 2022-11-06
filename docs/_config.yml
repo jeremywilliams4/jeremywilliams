@@ -30,8 +30,8 @@ twitter_username: jekyllrb
 github_username:  jeremywilliams4
 
 # Build settings
-markdown: kramdown
-theme: Time machine
+#markdown: kramdown
+theme: minima
 plugins:
   - jekyll-feed
 
