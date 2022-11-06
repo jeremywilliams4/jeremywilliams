@@ -30,7 +30,7 @@ twitter_username: jekyllrb
 github_username:  jeremywilliams4
 
 # Build settings
-theme: TIME MACHINE
+theme: Time machine
 plugins:
   - jekyll-feed
 
