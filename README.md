@@ -1,5 +1,5 @@
 # jeremywilliams.github.io
-###why won't this dumbass theme change?
+### why won't this dumbass theme change?
 
 My artifact for the: 1) Software Design and Engineering, 2) Algorithms and Data Structures, and 3) Databases, categories is a program titled, “ClientList”. This is a project from my CS410 class, Software Reverse Engineering. This is a simple program that prompts the user to select from a menu of options and then reacts according to that input. The program will display a current list of clients, and then allow the user to select a specific client to view their investment option, or exit the program. I chose this program because it seemed like a great example of a real-world scenario and could allow for expandability. I imagined this type of program to be much like one that a business such as a bank, for example, may use to keep track of client information. The program is quite simple but is still able to showcase my ability to transform a real-world business need and convert it into a software solution.
 
